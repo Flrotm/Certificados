@@ -1,5 +1,5 @@
 # Certificados
 
-![QGIS](https://github.com/Flrotm/Certificados/blob/main/Francesco%20Uccelli%20Meneses%20.pdf)
+![QGIS](https://github.com/Flrotm/Certificados/blob/main/qgis.jpg)
 
 ![Blockchain](https://github.com/Flrotm/Certificados/blob/main/cert.jpg)
